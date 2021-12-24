@@ -71,12 +71,12 @@ Caso o **tema atual** seja "light" ou "claro", o mesmo deverá ser trocado para 
 </br>
 
 ### :warning: Para executar o projeto...
-            # Clone o repositório para a sua máquina local.
-             $ git clone git@github.com:Pam18/m02-front-desafio-cubos-academy.git
+            // Clone o repositório para a sua máquina local.
+            $ git clone git@github.com:Pam18/m02-front-desafio-cubos-academy.git
              
-            # No painel esquerdo do seu VSCODE, clique com o botão direito no arquivo "index.html" e selecione "Open with Live Server".
+            // No painel esquerdo do seu VSCODE, clique com o botão direito no arquivo "index.html" e selecione "Open with Live Server".
             
-            # A aplicação será aberta no seu navegador.
+            // A aplicação será aberta no seu navegador.
   
 </br>
   
