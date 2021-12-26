@@ -73,9 +73,9 @@ Caso o **tema atual** seja "light" ou "claro", o mesmo deverá ser trocado para 
 ### :warning: Para executar o projeto...
             // Clone o repositório para a sua máquina local.
             $ git clone git@github.com:Pam18/m02-front-desafio-cubos-academy.git
-             
-            // Instale o npm.
-            $ npm install
+            
+            // Acesse a pasta do projeto
+            $ cd m02-front-desafio-cubos-academy
             
             // Execute a aplicação em modo de desenvolvimento.
             $ npm start
