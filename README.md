@@ -65,18 +65,22 @@ Caso o **tema atual** seja "light" ou "claro", o mesmo deverá ser trocado para 
 <ul>O primeiro passo é realizar a instalação dos programas utilizados na execução do projeto.
     <ul><li> 1º passo: caso não tenha, instale o <a href="https://git-scm.com/">Git</a> em seu computador. </li></ul>    
     <ul><li> 2º passo: instale um bom editor de código. Por exemplo, o <a href="https://code.visualstudio.com/">VSCODE</a>.</li></ul>
-    <ul><li> 3º passo: adicione a extensão live server no seu VSCODE. </li></ul>
+    <ul><li> 3º passo: faça a download da versão LTS do <a href="https://nodejs.org/en/">Node.js</a> e instale na sua máquina. A instalação do Node permitirá que você utilize o gerenciador de pacotes Node Package Manager(NPM).</li></ul>
 </ul>
   
 </br>
 
 ### :warning: Para executar o projeto...
-            # Clone o repositório para a sua máquina local.
-             $ git clone git@github.com:Pam18/m02-front-desafio-cubos-academy.git
+            // Clone o repositório para a sua máquina local.
+            $ git clone git@github.com:Pam18/m02-front-desafio-cubos-academy.git
              
-            # No painel esquerdo do seu VSCODE, clique com o botão direito no arquivo "index.html" e selecione "Open with Live Server".
+            // Instale o npm.
+            $ npm install
             
-            # A aplicação será aberta no seu navegador.
+            // Execute a aplicação em modo de desenvolvimento.
+            $ npm start
+            
+            // Acesse a aplicação que será aberta em seu navegador.
   
 </br>
   
